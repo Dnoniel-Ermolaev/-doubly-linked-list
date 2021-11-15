@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\ermol\source\repos\mpList\Source.cpp(60): warning C4715: LIST::search_uk: значение возвращается не при всех путях выполнения
+  mpList.vcxproj -> C:\Users\ermol\source\repos\mpList\x64\Debug\mpList.exe
